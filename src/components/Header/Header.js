@@ -11,7 +11,7 @@ export class Header extends React.Component {
       <div className={styles.topbar}>
         <Link className={styles.logo} to="/"><h1>{title}</h1></Link>
         <section>
-          Fullstack.io
+          yelping
         </section>
       </div>
     )
